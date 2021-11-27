@@ -33,10 +33,12 @@ Cualquier proyecto o actividad debe cumplir con estos 4 criterios para poder ser
 Además, tiene que relacionarse con al menos un objetivo de aprendizaje de CAS.
 
 *¿Cómo se evalúa CAS?*
+
 CAS se evalúa en forma cualitativa, es decir, que no tiene una nota. 
 La aprobación de CAS se logra demostrando el logro de los 8 objetivos de aprendizaje al participar en distintos proyectos y actividades.
 
 ## Estos son:
+
 * Adquirir una mayor conciencia de tus propias cualidades y áreas de crecimiento
 * Emprender nuevos desafíos
 * Proponer y planificar actividades
@@ -47,6 +49,7 @@ La aprobación de CAS se logra demostrando el logro de los 8 objetivos de aprend
 * Desarrollar nuevas habilidades
 
 *¿Durante cuánto tiempo tengo que realizar actividades de CAS?*
+
 Durante 3° medio, todos los alumnos del nivel deben participar en CAS, ya que forma parte del currículo académico de todos los alumnos. Esto significa, que durante ese nivel, todos deben desarrollar al menos un proyecto de largo aliento (semestral o anual) y participar en otras actividades que ayuden a balancear los elementos de Creatividad, Acción y Servicio. En 4° medio, los únicos alumnos que continúan desarrollando el programa, son los candidatos a Diploma y aquellos alumnos que quieran realizar Certificado en CAS. Este grupo de alumnos, debe cumplir el criterio de continuidad del programa, por un mínimo de 18 meses desde 3° hasta 4° medio, con una dedicación semanal recomendada de 2 a 3 horas.
 
 
