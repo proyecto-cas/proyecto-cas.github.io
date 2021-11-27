@@ -13,7 +13,7 @@ sidebar: []
 
 Debido a que experimentamos cierto grado de desinformación respecto a los eventos o cursos académicos que aparecieron durante nuestra estadía en el grado inicial del COAR decidimos proponer esta propuesta de proyecta para brindar una información pertinente a los alumnos que recién ingresan, brindando nuestro punto de vista en cada tema que presentaremos en la guía. Por lo que en nuestro proyecto CAS involucraremos sus áreas las cuales son creatividad, actividad y servicio, además, nuestra principal motivación es el cuidado y comodidad de los alumnos del 3er grado de secundaria de la institución educativa COAR para que continúen con sus aprendizajes y ser buenos ciudadanos para la sociedad.
 
-**¿Qué es CAS?**
+<h1 align="center">**¿Qué es CAS?</h1>	
 
 El Bachillerato Internacional es una fundación educativa sin ánimo de lucro fundada en el año 1968 y que actualmente se está ofreciendo a más de 150 países del mundo. Ofrece cuatro programas de educación internacional de gran prestigio. Cuyo objetivo es desarrollar las habilidades intelectuales, personales, emocionales y sociales necesarias para que los alumnos podamos vivir, aprender y trabajar en un mundo cada vez más globalizado. Los alumnos tenemos una metodología parecida a la anglosajona, por este motivo potenciamos la parte social y humana,  dando más importancia a la práctica y aprendizaje del alumno. Los alumnos del bachillerato internacional no solo somos excelentes en estudios, sino que tenemos un plus de motivación personal. Este plus es muy importante en el momento de hacer las pruebas de selección ya que es un pilar fundamental para poder formar parte del diploma IB.
 
