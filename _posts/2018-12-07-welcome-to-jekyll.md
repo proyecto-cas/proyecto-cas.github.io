@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subheading: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Bienvenid@! - ¿Qué es CAS?
+subheading: Descubre qué es CAS, además de información importante que debes conocer :D
+author: Oscar - Patrizio
+categories: CAS
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
