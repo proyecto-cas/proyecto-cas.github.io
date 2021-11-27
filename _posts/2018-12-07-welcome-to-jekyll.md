@@ -20,9 +20,7 @@ tags: jekyll theme yat
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Debido a que experimentamos cierto grado de desinformación respecto a los eventos o cursos académicos que aparecieron durante nuestra estadía en el grado inicial del COAR decidimos proponer esta propuesta de proyecta para brindar una información pertinente a los alumnos que recién ingresan, brindando nuestro punto de vista en cada tema que presentaremos en la guía. Por lo que en nuestro proyecto CAS involucraremos sus áreas las cuales son creatividad, actividad y servicio, además, nuestra principal motivación es el cuidado y comodidad de los alumnos del 3er grado de secundaria de la institución educativa COAR para que continúen con sus aprendizajes y ser buenos ciudadanos para la sociedad.
 
 ## section 1
 
