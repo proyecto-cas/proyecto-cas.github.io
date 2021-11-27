@@ -22,3 +22,12 @@ El Bachillerato Internacional es una fundación educativa sin ánimo de lucro fu
 Es un programa que forma parte del núcleo del plan de estudios del Diploma IB, junto con Teoría del Conocimiento y la Monografía, por lo tanto está en la experiencia de todos los alumnos y tiene conexión con todos los grupos de asignaturas. Por lo tanto, CAS se cursa principalmente en 3° medio, tanto en el caso de alumnos que quieran o no realizar el Diploma. En el caso de los alumnos candidatos a Diploma, deben continuar su programa en 4° medio. En 2° medio, los alumnos tienen actividades de preparación para realizar CAS y además manifiestan sus intereses para preparar la oferta de proyectos del colegio en base a dicha información.
 
 Uno de los motivos de la existencia de CAS en el Diploma, es para contrarrestar la presión que se puede generar por las exigencias académicas del currículo. De esta manera, se pretende que los alumnos logren balancear su vida académica con sus intereses personales vinculados a actividades de tipo artístico, deportivo o social. 
+
+
+<h1 align="center">Criterios y Requisitos</h1>	
+
+![CAS](/assets/images/banners/cas2.jpg)
+
+**¿Qué criterios debe cumplir una actividad o un proyecto para ser considerado como experiencia de CAS?**
+Cualquier proyecto o actividad debe cumplir con estos 4 criterios para poder ser considerada como parte de CAS. 
+Además, tiene que relacionarse con al menos un objetivo de aprendizaje de CAS.
